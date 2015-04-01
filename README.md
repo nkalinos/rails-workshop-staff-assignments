@@ -4,3 +4,4 @@
 # rails-workshop-staff-assignments
 # exceptions-exercise
 # octokit-api-stuff
+# jquery-practice
